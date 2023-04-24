@@ -9735,19 +9735,19 @@ case 6:return $.tp[6]
 case 7:return $.tp[7]}},
 xz:function xz(a,b){this.a=a
 this.b=b},
-b6E(a){var s="assets/home.svg",r=null
+b6E(a){var s="/assets/home.svg",r=null
 switch(a.a){case 1:return A.ch(s,B.C,r,B.Y,r)
-case 2:return A.ch("assets/finance.svg",B.C,r,B.Y,r)
-case 3:return A.ch("assets/briefcase.svg",B.C,r,B.Y,r)
-case 4:return A.ch("assets/team.svg",B.C,r,B.Y,r)
-case 5:return A.ch("assets/marketing.svg",B.C,r,B.Y,r)
-case 6:return A.ch("assets/brokers.svg",B.C,r,B.Y,r)
-case 7:return A.ch("assets/packages.svg",B.C,r,B.Y,r)
-case 8:return A.ch("assets/statuses.svg",B.C,r,B.Y,r)
-case 9:return A.ch("assets/instructions.svg",B.C,r,B.Y,r)
-case 10:return A.ch("assets/settings.svg",B.C,r,B.Y,r)
-case 11:return A.ch("assets/admin.svg",B.C,r,B.Y,r)
-case 12:return A.ch("assets/exit.svg",B.C,r,B.Y,r)
+case 2:return A.ch("/assets/finance.svg",B.C,r,B.Y,r)
+case 3:return A.ch("/assets/briefcase.svg",B.C,r,B.Y,r)
+case 4:return A.ch("/assets/team.svg",B.C,r,B.Y,r)
+case 5:return A.ch("/assets/marketing.svg",B.C,r,B.Y,r)
+case 6:return A.ch("/assets/brokers.svg",B.C,r,B.Y,r)
+case 7:return A.ch("/assets/packages.svg",B.C,r,B.Y,r)
+case 8:return A.ch("/assets/statuses.svg",B.C,r,B.Y,r)
+case 9:return A.ch("/assets/instructions.svg",B.C,r,B.Y,r)
+case 10:return A.ch("/assets/settings.svg",B.C,r,B.Y,r)
+case 11:return A.ch("/assets/admin.svg",B.C,r,B.Y,r)
+case 12:return A.ch("/assets/exit.svg",B.C,r,B.Y,r)
 case 0:return A.ch(s,B.C,r,B.Y,r)}},
 G8(a){switch(a.a){case 1:return $.jG[0]
 case 2:return $.jG[1]
@@ -9766,13 +9766,13 @@ fi:function fi(a,b,c){this.c=a
 this.a=b
 this.b=c},
 aUA(a){var s=null
-switch(a.a){case 0:return A.ch("assets/settings/profile.svg",B.C,s,B.Y,s)
-case 1:return A.ch("assets/settings/google_auth.svg",B.C,s,B.Y,s)
-case 2:return A.ch("assets/settings/password.svg",B.C,s,B.Y,s)
-case 3:return A.ch("assets/settings/email.svg",B.C,s,B.Y,s)
-case 4:return A.ch("assets/settings/language.svg",B.C,s,B.Y,s)
-case 5:return A.ch("assets/settings/sessions.svg",B.C,s,B.Y,s)
-case 6:return A.ch("assets/settings/approves.svg",B.C,s,B.Y,s)}},
+switch(a.a){case 0:return A.ch("/assets/settings/profile.svg",B.C,s,B.Y,s)
+case 1:return A.ch("/assets/settings/google_auth.svg",B.C,s,B.Y,s)
+case 2:return A.ch("/assets/settings/password.svg",B.C,s,B.Y,s)
+case 3:return A.ch("/assets/settings/email.svg",B.C,s,B.Y,s)
+case 4:return A.ch("/assets/settings/language.svg",B.C,s,B.Y,s)
+case 5:return A.ch("/assets/settings/sessions.svg",B.C,s,B.Y,s)
+case 6:return A.ch("/assets/settings/approves.svg",B.C,s,B.Y,s)}},
 asJ(a){switch(a.a){case 0:return $.y5[0]
 case 1:return $.y5[1]
 case 2:return $.y5[2]
@@ -111870,7 +111870,7 @@ $.y5=A.a(["\u041f\u0440\u043e\u0444\u0438\u043b\u044c","Google authentication","
 $.aRy=null
 $.aOp=A.a(["\u0434\u0435\u043d\u044c","\u043d\u0435\u0434\u0435\u043b\u044e","\u0433\u043e\u0434"],t.s)
 $.Wf=A.a(["\u041f\u043e\u0434\u043f\u0438\u0441\u043a\u0438","\u0420\u0435\u0436\u0438\u043c \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u043a\u0430","Forex \u0442\u043e\u0440\u0433\u043e\u0432\u043b\u044f","Crypto \u0441\u0438\u0433\u043d\u0430\u043b\u044b","Forex \u0441\u0438\u0433\u043d\u0430\u043b\u044b"],t.s)
-$.We=A.a(["assets/images/subscribe_image.png","assets/images/modes_img.png","assets/images/forex_trading_img.png","assets/images/crypto_signals.png","assets/images/forex_signal_img.png"],t.s)
+$.We=A.a(["/assets/images/subscribe_image.png","/assets/images/modes_img.png","/assets/images/forex_trading_img.png","/assets/images/crypto_signals.png","/assets/images/forex_signal_img.png"],t.s)
 $.b47=A.bbU()
 $.aO6=0
 $.Sp=A.a([],A.a2("t<bgA>"))
